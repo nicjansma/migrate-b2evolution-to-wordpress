@@ -3,6 +3,8 @@
 
 Converts a b2evolution blog to a WordPress blog.
 
+Original blog post at [nicj.net](http://nicj.net/2009/04/01/b2evolution-09-to-wordpress-migration-script)
+
 Instructions
 ------------
 1. Install Wordpress - it does not have to use the same DB as your b2evolution blog.
